@@ -31,6 +31,6 @@ Welcome to the Maze Game! This is a simple terminal-based game written in C++ wh
 
 5. **Game Over**: After completing all levels, the total score is displayed.
 
-atch a detailed demonstration of the game on YouTube:
+a detailed demonstration of the game on YouTube:
 
 [![Maze Game Demo](https://img.youtube.com/vi/3BIyRyYlWxk/0.jpg)](https://youtu.be/3BIyRyYlWxk)
